@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route\\C# basic\\ch4_string_array\\ch4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{156CEE79-9510-4E45-880C-F6348D5DC42A}|assignment4\\assignment4.csproj|d:\\route\\c# basic\\ch4_string_array\\ch4\\assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156CEE79-9510-4E45-880C-F6348D5DC42A}|assignment4\\assignment4.csproj|solutionrelative:assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137C9DCA-C1D4-45B9-8557-5A20C9DC5CEF}|damoch4\\damoch4.csproj|d:\\route\\c# basic\\ch4_string_array\\ch4\\damoch4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137C9DCA-C1D4-45B9-8557-5A20C9DC5CEF}|damoch4\\damoch4.csproj|solutionrelative:damoch4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route\\C# basic\\ch4_string_array\\ch4\\assignment4\\Program.cs",
+              "RelativeDocumentMoniker": "assignment4\\Program.cs",
+              "ToolTip": "D:\\Route\\C# basic\\ch4_string_array\\ch4\\assignment4\\Program.cs",
+              "RelativeToolTip": "assignment4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:44:12.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route\\C# basic\\ch4_string_array\\ch4\\damoch4\\Program.cs",
+              "RelativeDocumentMoniker": "damoch4\\Program.cs",
+              "ToolTip": "D:\\Route\\C# basic\\ch4_string_array\\ch4\\damoch4\\Program.cs",
+              "RelativeToolTip": "damoch4\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:59:21.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

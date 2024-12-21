@@ -1,0 +1,14 @@
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\bin\Debug\net7.0\damoch4.exe
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\bin\Debug\net7.0\damoch4.deps.json
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\bin\Debug\net7.0\damoch4.runtimeconfig.json
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\bin\Debug\net7.0\damoch4.dll
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\bin\Debug\net7.0\damoch4.pdb
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\obj\Debug\net7.0\damoch4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\obj\Debug\net7.0\damoch4.AssemblyInfoInputs.cache
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\obj\Debug\net7.0\damoch4.AssemblyInfo.cs
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\obj\Debug\net7.0\damoch4.csproj.CoreCompileInputs.cache
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\obj\Debug\net7.0\damoch4.dll
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\obj\Debug\net7.0\refint\damoch4.dll
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\obj\Debug\net7.0\damoch4.pdb
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\obj\Debug\net7.0\damoch4.genruntimeconfig.cache
+D:\Route\C# basic\ch4_string_array\ch4\damoch4\obj\Debug\net7.0\ref\damoch4.dll
